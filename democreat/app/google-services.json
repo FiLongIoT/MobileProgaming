@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "614954688145",
+    "firebase_url": "https://crudrealtime2024-default-rtdb.firebaseio.com",
+    "project_id": "crudrealtime2024",
+    "storage_bucket": "crudrealtime2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614954688145:android:1ac6a0dfe48fcfb9246930",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoAwH__iQZp_QPqypns_3v6gwLeWv8fWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614954688145:android:bab4204b6a31415b246930",
+        "android_client_info": {
+          "package_name": "com.example.photopicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoAwH__iQZp_QPqypns_3v6gwLeWv8fWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
