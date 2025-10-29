@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129733307873",
+    "project_id": "fir-authenticationpizza",
+    "storage_bucket": "fir-authenticationpizza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129733307873:android:98f6a9920bb8d98108f6a0",
+        "android_client_info": {
+          "package_name": "com.example.midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129733307873-3tk4allu1doj44avp7f52plloge6e7va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEcjrgY_-6TDUl25AfwZcX3cPb3iPaso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129733307873-3tk4allu1doj44avp7f52plloge6e7va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
