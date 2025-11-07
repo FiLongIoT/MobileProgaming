@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54808761491",
+    "project_id": "cuahang-42589",
+    "storage_bucket": "cuahang-42589.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54808761491:android:25c750fadaee3823452966",
+        "android_client_info": {
+          "package_name": "com.example.banhang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBtSpfqU1cgz8vSoZfVlaDd03Cu8vYq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54808761491:android:bbb386e3e1ba7cc5452966",
+        "android_client_info": {
+          "package_name": "com.example.bluromatic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBtSpfqU1cgz8vSoZfVlaDd03Cu8vYq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
